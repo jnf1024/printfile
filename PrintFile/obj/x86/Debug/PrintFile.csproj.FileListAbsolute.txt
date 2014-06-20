@@ -1,0 +1,8 @@
+D:\编程练习\DoNet\PrintFile\PrintFile\bin\Debug\PrintFile.exe
+D:\编程练习\DoNet\PrintFile\PrintFile\bin\Debug\PrintFile.pdb
+D:\编程练习\DoNet\PrintFile\PrintFile\obj\x86\Debug\PrintFile.Form1.resources
+D:\编程练习\DoNet\PrintFile\PrintFile\obj\x86\Debug\PrintFile.Properties.Resources.resources
+D:\编程练习\DoNet\PrintFile\PrintFile\obj\x86\Debug\PrintFile.exe
+D:\编程练习\DoNet\PrintFile\PrintFile\obj\x86\Debug\PrintFile.pdb
+D:\编程练习\DoNet\PrintFile\PrintFile\obj\x86\Debug\PrintFile.csprojResolveAssemblyReference.cache
+D:\编程练习\DoNet\PrintFile\PrintFile\obj\x86\Debug\PrintFile.csproj.GenerateResource.Cache
